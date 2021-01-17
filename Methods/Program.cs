@@ -10,6 +10,13 @@ namespace Methods
     {
         static void Main(string[] args)
         {
+
+
+        }
+        static int  Topla(int number1, int number2)
+        {
+            int result;
+            return result= number1 + number2;
         }
     }
 }
